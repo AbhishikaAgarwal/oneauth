@@ -13,7 +13,7 @@
 
 ## Design and Styles
 
-**IMPORTANT NOTE** The css is picked from [motley](https://github.com/coding-blocks/motley)
+**IMPORTANT NOTE** The CSS is picked from [motley](https://github.com/coding-blocks/motley)
 If there are any UI changes to be made, please make on motley.
 
 ## Installation
@@ -161,7 +161,7 @@ built by [jaredhanson](http://github.com/jaredhanson) from [auth0](http://github
  - **[oauth2orize](https://github.com/jaredhanson/oauth2orize)** Simple Oauth2 provider middleware
 
 ### Inspirations
-We built this at @coding-blocks looking at a similar solution [hasgeek](http://github.com/hasgeek)
+We built it at @coding-blocks looking at a similar solution [hasgeek](http://github.com/hasgeek)
 has here - http://github.com/hasgeek/lastuser
 We made our own, instead of using _lastuser_, because (a) the documentation
 was a little lacking on lastuser, and (b) we were more comfortable on a
