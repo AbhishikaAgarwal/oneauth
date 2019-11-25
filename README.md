@@ -26,7 +26,7 @@ If there are any UI changes to be made, please make on motley.
 ## Running Locally (for Development)
 
 ### Option 1: Without SSL, only local logins
-Simple clone and  -
+Simple clone -
 
 ```
 npm install
@@ -38,7 +38,7 @@ npm run start:dev
 ### Option 2: With SSL (HTTPS), and try out social logins too
 
 If you want to run it with https, and run it on a proper domain
-(not 127.0.0.1), and enable Facebook/Twitter/Github logins, you'll need to take care of
+(not 127.0.0.1), and enable Facebook/Twitter/Github logins, you have to take care of
 a few additional steps -
 
 Please read the [required steps in the wiki](https://github.com/coding-blocks/oneauth/wiki/)
@@ -161,9 +161,9 @@ built by [jaredhanson](http://github.com/jaredhanson) from [auth0](http://github
  - **[oauth2orize](https://github.com/jaredhanson/oauth2orize)** Simple Oauth2 provider middleware
 
 ### Inspirations
-We built this at @coding-blocks looking at a similar solution [hasgeek](http://github.com/hasgeek)
+We built it at @coding-blocks looking at a similar solution [hasgeek](http://github.com/hasgeek)
 has here - http://github.com/hasgeek/lastuser
-We made our own, instead of using _lastuser_, because (a) the documentation
+We have made our own, instead of using _lastuser_, because (a) the documentation
 was a little lacking on lastuser, and (b) we were more comfortable on a
 NodeJS+Postgres based stack.
 
